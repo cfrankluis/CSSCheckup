@@ -1,0 +1,20 @@
+body{
+    background-color: brown;
+}
+#a{
+    font-size: x-large;
+    color: white;
+}
+
+.b{
+    background-color: yellow;
+    margin: 100px;
+    border-style: dashed;
+    border-color: blue;
+    width: 200px;
+    height: 250px;
+}
+
+#c{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
